@@ -1,8 +1,8 @@
 👋 Hi, I’m @d3x0ex\
-👀 I’m interested in web frameworks\
+👀 I’m interested in software architecture\
 🌱 I’m currently learning Python\
 📫 How to reach me: me at dathomas dot me\
-😄 Pronouns: they/them\
+😄 Pronouns: ¯\\_(ツ)_/¯\
 ⚡ Fun fact: I'm a computer science graduate student 
 
 <!---
